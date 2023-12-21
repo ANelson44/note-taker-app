@@ -7,7 +7,7 @@
   Node.js, Express.js.  
 
   ## Usage
-  1) Open the deployed application here ==> https://git.heroku.com/shielded-tor-75844.git
+  1) Open the deployed application here ==> https://shielded-tor-75844-1051a608d91d.herokuapp.com/
   2) Click "Get Started" to open the note taker application.
   3) Enter desired text in the "title" and "text" fields.
   4) Click the "Save Note" button in the top right to save the note.
